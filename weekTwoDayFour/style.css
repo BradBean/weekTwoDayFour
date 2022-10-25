@@ -1,0 +1,19 @@
+.allProps{
+	text-align: center;
+}
+.box{
+  border: 1px solid Black;
+  height: 400px;
+  width: 350px;
+  margin: 200px;
+  display: inline-block;
+  box-sizing: border-box;
+  font-family: "Trirong", serif;
+}
+.headerOfPage{
+	padding: 25px 0px;
+}
+
+.textForms{
+	font-size:20px;
+}
