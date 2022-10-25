@@ -17,3 +17,7 @@
 .textForms{
 	font-size:20px;
 }
+#submitButton {
+	width: 300px;  height: 25px;
+	
+}
